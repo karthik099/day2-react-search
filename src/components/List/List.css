@@ -1,0 +1,15 @@
+.container {
+  border: 1px solid #e2e8f0;
+}
+
+.table-th {
+  text-align: left;
+  padding: 8px;
+  border-bottom: 1px solid #eee;
+}
+
+.table-td {
+  padding: 8px;
+  border-bottom: 1px solid #eee;
+  text-align: left;
+}
